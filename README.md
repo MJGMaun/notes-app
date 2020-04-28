@@ -1,22 +1,16 @@
 
-### Features
+## Features
 
 - Add note
 - Read note
 - Remove note
 - List notes
 
-### Installation
-
----------------------------
+## Installation
 
 `$ npm install `
 
-### Commands
-
----------------------------
-
-
+## Commands
 
 | Command | Description                    |
 | ------------- | ------------------------------ |
@@ -24,5 +18,3 @@
 | `node app read --title="title here"`                                       | Read note        |
 | `node app remove --title="title here"`                                  | Remove note   |
 | `node app list`                                                                        | List notes         |
-
-### End
